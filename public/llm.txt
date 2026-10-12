@@ -1,0 +1,47 @@
+# Jahangir Abbas — Portfolio & Technical Profile
+
+Full-Stack Developer & AI Systems Engineer. BS IT Student at the University of the Punjab, Pakistan.
+
+## Contact & Links
+- Website: https://github.com/ijahangirabbas
+- GitHub: https://github.com/ijahangirabbas
+- LinkedIn: https://linkedin.com/in/ijahangirabbas
+- Email: hello@thejeemlabs.com
+
+## About Me
+I am a BS Information Technology student at the University of the Punjab with a strong interest in software engineering, artificial intelligence, and modern web technologies. My primary focus is on building practical software products that solve real-world problems while continuously expanding my expertise in full-stack development, AI systems, and scalable application architecture.
+
+## Education
+- **Bachelor of Science in Information Technology (BS IT)** (2024 — Present)
+  University of the Punjab, Pakistan
+  Focus: Software development, programming, databases, networking, and modern computing technologies.
+- **Applied AI & RAG Engineering** (2024 — Present)
+  Independent Study & Research
+  Focus: LLM systems, dense/sparse vector retrieval, guardrails, evaluation loops, and streaming synthesis.
+
+## Technical Skills
+- **Programming Languages**: JavaScript, TypeScript, Python, SQL
+- **Frontend Development**: React.js, Next.js, Tailwind CSS, HTML5, CSS3, Vite
+- **Backend Development**: Node.js, Express.js, FastAPI, REST APIs, Authentication Systems
+- **Databases & Vector Stores**: Qdrant Vector Database, PostgreSQL, MongoDB, Supabase
+- **AI & RAG Infrastructure**: OpenAI APIs, LangChain, Dense/Sparse Vector Search, RAG Pipelines, AI Agents, Prompt Engineering
+- **Dev Tools & Platforms**: Git & GitHub, Docker, OpenTelemetry, Vercel, Netlify, AWS S3
+
+## Projects
+- **ChaiBook LLM** (AI & RAG Systems)
+  - Description: An AI-powered multi-tenant Retrieval-Augmented Generation platform designed to ingest and process content from multiple sources including PDFs, websites, YouTube transcripts, and text documents.
+  - Architecture: S3 Upload → BullMQ Background Ingestion Worker → Text Extraction & Chunking → OpenAI Embedding Generation → Qdrant Vector Index → Cohere Re-ranker → LLM Streaming Response.
+  - Metrics: <350ms p95 Retrieval, Input/Output Guardrails.
+  - Repository: https://github.com/ijahangirabbas/ChaiBook-LLM
+- **Equilibrium AI** (AI & RAG Systems)
+  - Description: An AI-driven application focused on intelligent user interactions and advanced language model capabilities. Invokes parallel streams from GPT-4o, Claude 3.5 Sonnet, and Gemini 1.5 Pro, synthesizing them using a fourth meta-evaluation call.
+  - Repository: https://github.com/ijahangirabbas/equilibrium-ai
+- **Persona AI** (AI & RAG Systems)
+  - Description: A personalized AI platform designed to simulate conversations with popular Indian software educators (Hitesh Choudhary and Piyush Garg) with real-time persona switching and session memory.
+  - Repository: https://github.com/ijahangirabbas/Persona-AI
+- **RAG Subtitle Search** (AI & RAG Systems)
+  - Description: Upload video subtitles or YouTube transcripts to perform semantic queries and jump directly to exact video timestamps with verbatim evidence highlights.
+  - Repository: https://github.com/ijahangirabbas/mobile-dev-assistant
+- **Freelance SaaS & Client Solutions** (Client Projects)
+  - Description: A portfolio of client-facing web applications, educational platforms, workshop management portals, automotive systems, and landing pages.
+  - Repository: Private
